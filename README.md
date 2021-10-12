@@ -12,13 +12,17 @@ Use proper data cleansing techniques to ensure that you have the highest quality
    3. Corrected the datatypes of columns
    4. Checked for outliers
    5. Performed exploratory data analysis
+   6. Checked frequency distribution of variables
+   7. Checked Summary statistics
 
 Part 2:
 
 Build a linear regression model to accurately predict miles per gallon (MPG) based on the attributes of a vehicle. Discuss the significant attributes and how they can help you build the proper car.
    1. Checked co-relation between variables
-   2. Performed linear regression
-   3. Analyzed summary of model
+   2. Split the dataset into train and test
+   3. Scaled the dataset
+   4. Performed linear regression
+   5. Analyzed summary of model
 
 Part 3:
 
